@@ -1,32 +1,34 @@
 ---
-title: "YOUR NAME" 
+title: "Casey Connors" 
 about:
   template: trestles  # jolla  trestles  solana  marquee  broadside
-  image: img/profile.png
+  image: img/photo.jpg
   image-width: 16em
   image-shape: round # rectangle  round  rounded
   
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/casey-connors-530b5b2a4/
+      
     - icon: instagram
       text: Instagram
-      href: https://instagram.com
+      href: https://www.instagram.com/casey_connors4/?next=%2F
     - icon: github
       text: GitHub
-      href: https://github.com
+      href: https://github.com/CaseyConnors/CaseyConnors.github.io
     - icon: file-earmark-pdf
       text: Resumé
       href: https://GITHUB_USERNAME.github.io/resume-example.pdf
     - icon: mailbox
       text: Email
-      href: mailto:YOUR_EMAIL@geneseo.edu
+      href: mailto:cpc99@geneseo.edu
 
 ---
 
 
-Finley Malloc majors in Data Analytics at SUNY Geneseo. When not working on data analytics, Finley enjoys spending time unicycling and playing with her pet iguana.
+
+Casey Connors is a freshman at SUNY Geneseo. He is pursuing a degree in Business Administration, with a minor in Marketing.
 
 ## Education
 
@@ -36,6 +38,9 @@ Minor in Business Administration
 
 ## Experience
 
-Starbucks Analytics | Data Analyst Intern | May 2024 - Aug 2024
+Certified Lifeguard | Part-Time Mixologist | Volunteer Gynecologist 
 
 
+git add .
+git commit -m “ANY_MASSAGE”
+git push -u origin main

@@ -1,0 +1,29 @@
+{
+  "index.qmd": {
+    "index.html": "d1b1d21b"
+  },
+  "blog-listing.qmd": {
+    "blog-listing.html": "6b6595d2"
+  },
+  "posts/starwars/starwars_df.qmd": {
+    "starwars_df.html": "f8ff79d5"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "c58fdc31"
+  },
+  "project.qmd": {
+    "project.html": "ca817ded"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "ba2ac1ea"
+  },
+  "NFL.qmd": {
+    "NFL.html": "aaf7989c"
+  },
+  "posts/NFL 2022/NFL.qmd": {
+    "NFL.html": "93d7b933"
+  },
+  "posts/beer-markets/beer-markets.qmd": {
+    "beer-markets.html": "72d6b6a9"
+  }
+}

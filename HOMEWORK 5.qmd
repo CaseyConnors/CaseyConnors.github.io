@@ -1,0 +1,16 @@
+---
+title: "danl200-hw5-Connors-Casey.qmd"
+format: pdf
+editor: visual
+---
+
+#GIT HUB
+https://github.com/CaseyConnors/CaseyConnors.github.io
+
+
+
+
+#NFL
+
+file:///C:/Users/casey/OneDrive/Documents/CaseyConnors.github.io/posts/NFL%202022/NFL.html
+---
